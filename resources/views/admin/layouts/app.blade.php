@@ -23,8 +23,8 @@
     <link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.9/summernote.css" rel="stylesheet">
     
     <!--external css-->
-    <link href="{{ asset('css/font-awesome.min.css', true) }}" rel="stylesheet" />
-    <link href="{{ asset('css/font-awesome.min1.css', true) }}" rel="stylesheet" />
+    <link href="{{ asset('css/font-awesome.min.css') }}" rel="stylesheet" />
+    <link href="{{ asset('css/font-awesome.min1.css') }}" rel="stylesheet" />
     <link rel="stylesheet" href="{{asset('css/toastr.min.css', true)}}">
     
     <!-- Custom styles for this template -->
