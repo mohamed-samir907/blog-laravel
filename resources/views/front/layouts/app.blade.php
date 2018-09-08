@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>{{ $setting->site_name }}</title>
 
-    <link rel="stylesheet" href="{{ asset('app/css/fonts.css', true) }}">
-    <link rel="stylesheet" href="{{ asset('app/css/crumina-fonts.css', true) }}">
+    <link rel="stylesheet" href="{{ asset('app/css/fonts.css') }}">
+    <link rel="stylesheet" href="{{ asset('app/css/crumina-fonts.css') }}">
     <link rel="stylesheet" href="{{ asset('app/css/normalize.css', true) }}">
     <link rel="stylesheet" href="{{ asset('app/css/grid.css', true) }}">
     <link rel="stylesheet" href="{{ asset('app/css/styles.css', true) }}">
